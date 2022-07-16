@@ -11,7 +11,6 @@ function RepoItem({ repo }) {
     open_issues,
     watchers_count,
     stargazers_count,
-    language,
   } = repo;
 
   return (
@@ -20,7 +19,6 @@ function RepoItem({ repo }) {
         <h3 className="mb-2 text-xl font-semibold">
           <a href={html_url} target="_blank" rel="noreferrer">
             <FaLink className="inline mr-1" /> {name}
-            <p className="mb-3 ml-3 inline"> : {language}</p>
           </a>
         </h3>
         <p className="mb-3">{description}</p>
