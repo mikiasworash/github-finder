@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react'
 
 function About() {
   return (
@@ -8,9 +8,9 @@ function About() {
         A React app to search GitHub profiles and see profile details. This
         project is part of the
         <a href="https://www.udemy.com/course/modern-react-front-to-back/">
-          {" "}
+          {' '}
           React Front To Back
-        </a>{" "}
+        </a>{' '}
         Udemy course by
         <strong>
           <a href="https://traversymedia.com"> Brad Traversy</a>
@@ -28,12 +28,12 @@ function About() {
       </p>
       <p className="text-lg text-gray-400">
         Student:
-        <a className="text-white" href="https://twitter.com/mikias_worash">
+        <a className="text-white" href="https://twitter.com/mikiasworash">
           Mikias Worash
         </a>
       </p>
     </>
-  );
+  )
 }
 
-export default About;
+export default About
