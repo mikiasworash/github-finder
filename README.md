@@ -8,6 +8,3 @@ App to search Github users and display their info. This is part of React Front T
 2. Install dependencies - npm install
 3. Run - npm start
 
-## Homepage Preview
-
-![Homepage](public/images/home.PNG)
