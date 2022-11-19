@@ -1,6 +1,8 @@
-# Github Finder App
+# Github Finder
 
-App to search Github users and display their info. This is part of React Front To Back 2022 course by Brad Traversey.
+This website enables to search Github users and display their info.
+
+## 👉 [View Live ](https://m-techtrek.vercel.app/)
 
 # How to Use
 
@@ -8,6 +10,6 @@ App to search Github users and display their info. This is part of React Front T
 2. Install dependencies - npm install
 3. Run - npm start
 
-## Homepage Preview
+## Preview
 
 ![Homepage](public/images/home.PNG)
