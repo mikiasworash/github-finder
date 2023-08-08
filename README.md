@@ -2,7 +2,7 @@
 
 This website enables to search Github users and display their info.
 
-## 👉 [View Live ](https://m-techtrek.vercel.app/)
+## 👉 [View Live ](https://github-finder-omega-lyart.vercel.app/)
 
 # How to Use
 
